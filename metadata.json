@@ -1,0 +1,7 @@
+{
+  "name": "AI Face Attractiveness Analyzer",
+  "description": "An application that uses AI to analyze a user's facial attractiveness based on 10 factors, provides an overall score, and generates an enhanced version of their face.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
